@@ -1,0 +1,14 @@
+
+
+body{
+	background-color:green;
+}
+#cabecalho{
+	border-bottom: 4px solid black;
+}
+#menu{
+	background-color:blue;
+	width:150px;
+	top:100px;
+	left:1200px;
+}
