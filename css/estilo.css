@@ -1,0 +1,50 @@
+
+body{
+	background:rgba(0,0,150, 0.3);
+	
+}
+
+#cabecalho{
+	width:1350px;
+	height:150px;
+	position:absolute;
+	top:2px;
+	border: 1px solid black;
+	background:rgba(0,0,150, 0.8);
+	padding:5px;
+	margin:20px;
+	
+}
+#cabecalho h1{
+	position:absolute;
+	color:white;
+	padding-left:144px;
+	top:27px;
+}
+#cabecalho h2{
+	color:white;
+	top:60px;
+	padding-left:160px;
+	position:absolute;
+}
+#img_cabecalho{
+	width:100px;
+	height:100px;
+	position:absolute;
+	top:30px;
+	
+}
+#menuesquerdo{
+	position:absolute;
+	width:200px;
+	height:600px;
+	border:1px solid black;
+	top:250px;
+	margin:20px;
+	
+}
+#menuesquerdo img{
+	width:100px;
+	height:100px;
+	
+}
